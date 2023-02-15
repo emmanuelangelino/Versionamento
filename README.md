@@ -1,2 +1,2 @@
-# Versionamento
- Para a Atividade de Versionamento
+# versionamento-atividade
+ Teste de Git para atividade do curso
