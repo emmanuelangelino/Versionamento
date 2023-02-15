@@ -1,2 +1,3 @@
-# versionamento-atividade
- Teste de Git para atividade do curso
+# Versioning Task
+;
+Teste de Git para atividade de versionamento;
